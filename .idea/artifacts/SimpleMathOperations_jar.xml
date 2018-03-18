@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SimpleMathOperations:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SimpleMathOperations_jar</output-path>
+    <root id="archive" name="SimpleMathOperations.jar">
+      <element id="module-output" name="SimpleMathOperations" />
+    </root>
+  </artifact>
+</component>
